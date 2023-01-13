@@ -169,7 +169,7 @@ a {
 }
 
 .two-col {
-    background-image: url('./IMAGES/bg-2.jpg');
+    background-image: url('../IMAGES/bg-2.jpg');
     background-size: cover;
     height: 600px;
     position: relative;
@@ -177,7 +177,7 @@ a {
 }
 
 .two-col1 {
-    background-image: url('./IMAGES/bg-3.jpg');
+    background-image: url('../IMAGES/bg-3.jpg');
     background-size: cover;
     background-position: center;
     height: 600px;
@@ -460,7 +460,7 @@ a {
 }
 
 .white-t {
-    background-image: url('./IMAGES/bg-5.jpg');
+    background-image: url('../IMAGES/bg-5.jpg');
     background-size: cover;
     height: 700px;
     margin-top: 35px;
