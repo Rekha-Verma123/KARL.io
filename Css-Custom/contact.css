@@ -62,7 +62,7 @@ a {
     text-transform: uppercase;
 }
 .backimg{
-    background-image: url('./IMAGES/bg-1.jpg');
+    background-image: url('../IMAGES/bg-1.jpg');
     background-size: cover;
     background-position: center;
     height: 300px;
